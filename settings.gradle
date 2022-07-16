@@ -1,0 +1,4 @@
+rootProject.name = 'Homework4.2_javaCore'
+include 'db'
+include 'api'
+include 'service'
